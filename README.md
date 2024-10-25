@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img allign="right"alt"Coding"=width="400"scr="https://images.stockcake.com/public/1/a/9/1a9c7d6c-8ff4-45ac-9587-54f871cedd48_large/coder-drinking-coffee-stockcake.jpg>
+<img allign="right"alt"Coding"=width="400"scr="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadadev&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadadev" /> </p>
 
