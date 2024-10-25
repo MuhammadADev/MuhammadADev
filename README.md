@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJs,React Native,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrinceHacker102/](https://github.com/PrinceHacker102/)
+- 👨‍💻 All of my projects are available at [https://github.com/PrinceHacker102/](https://github.com/MuhammadADev/)
 
 - 💬 Ask me about **react,typescript,nextjs,web Developement**
 
